@@ -1,17 +1,8 @@
 <div align="left">   
 
-## You Only :eyes: Once for Panoptic ​ :car: Perception
+## You Only :eyes: Once for Panoptic ​ :car: Perception for MRV
 > [**You Only Look at Once for Panoptic driving Perception**](https://arxiv.org/abs/2108.11250)
->
-> by Dong Wu, Manwen Liao, Weitian Zhang, [Xinggang Wang](https://xinggangw.info/)<sup> :email:</sup>     [*School of EIC, HUST*](http://eic.hust.edu.cn/English/Home.htm)
->
->  (<sup>:email:</sup>) corresponding author.
->
-> *arXiv technical report ([arXiv 2108.11250](https://arxiv.org/abs/2108.11250))*
 
----
-
-[中文文档](https://github.com/hustvl/YOLOP/blob/main/README%20_CH.md)
 
 ### The Illustration of YOLOP
 
